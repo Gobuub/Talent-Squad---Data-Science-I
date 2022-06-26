@@ -46,7 +46,7 @@ En la carpeta de data están los set propuestos para el caso, tanto el de entren
 Se adjunta el jupyter notebook donde se ha realizado el estudio de los datos y el entrenamiento de los modelos predictivos, y el resultado final del modelo seleccionado.
 
 
-## Contact info | Not required | Recommended
+## Contact info 
 
 Puede visitar mi [web](https://enriquerevueltagarcia.com) para ver más proyectos mios.
 
