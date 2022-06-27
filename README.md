@@ -32,9 +32,9 @@ Variables del dataset:
 
 La solución se encuentra en el archivo 'results.csv'.
 
-El modelo seleccionado después de varias pruebas es un randomforest clasiffier.
+El modelo seleccionado después de varias pruebas es un randomforest clasiffier, había modelos con mejores resultados de f1-score, me daba la sensación de que no generalizaban de forma óptima, por lo que al final me decanté por este modelo.
 
-El mejor resultado obtenido después de entrenar varios modelos es de un 0,79 f1_score.
+El mejor resultado obtenido con el modelo seleccionado después de entrenar varios modelos es de un 0,78 f1_score.
 
 
 ## Solución adoptada
